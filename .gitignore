@@ -140,3 +140,6 @@ infra/bee-code-interpreter/*
 # Code interpreter data
 /tmp/code_interpreter_target/*
 /tmp/code_interpreter_source/*
+
+# additional
+.DS_Store
